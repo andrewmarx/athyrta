@@ -1,0 +1,21 @@
+Package: athyrta
+Type: Package
+Title: Data Downloading and Caching
+Version: 0.0.0-1
+Author: Andrew Marx
+Maintainer: Andrew Marx <ajm.rpackages@gmail.com>
+Description: Tool for downloading and caching data from web apps or other remote
+    sources with a compatible API. Currently a proof-of-concept in the alpha stage
+    of development for internal and private use, with the expectation that future
+    releases will be suitable for third-party use.
+License: GPL (>=3)
+URL: https://andrewmarx.github.io/athyrta/
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.1.0)
+Imports:
+    httr2
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
