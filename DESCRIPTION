@@ -1,7 +1,7 @@
 Package: athyrta
 Type: Package
 Title: Data Downloading and Caching
-Version: 0.0.0-1
+Version: 0.0.0-2
 Author: Andrew Marx
 Maintainer: Andrew Marx <ajm.rpackages@gmail.com>
 Description: Tool for downloading and caching data from web apps or other remote
